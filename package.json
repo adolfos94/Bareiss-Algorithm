@@ -1,6 +1,6 @@
 {
   "name": "bareiss",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Algorithm to calculate the determinant of the a matrix with integer entries using only integer arithmetic.",
   "main": "index.js",
   "scripts": {
