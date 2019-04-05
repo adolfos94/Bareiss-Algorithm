@@ -1,0 +1,25 @@
+{
+  "name": "bareiss",
+  "version": "1.0.0",
+  "description": "Algorithm to calculate the determinant of the a matrix with integer entries using only integer arithmetic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adolfos94/Bareiss-Algorithm.git"
+  },
+  "keywords": [
+    "determinant",
+    "matrix",
+    "bareiss",
+    "montante"
+  ],
+  "author": "Adolfo Solis <adolfo2794@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/adolfos94/Bareiss-Algorithm.git",
+  "dependencies": {
+    "mathjs": "^5.8.0"
+  }
+}
