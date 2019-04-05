@@ -43,7 +43,7 @@ Bareiss.getDeterminant( K );
 
 The main function is:
 
-<img src="https://bitbucket.org/adolfo_s94/bareiss/raw/9adda507b113bf9e8a46a1134f75b547f61714ef/carbon.png">
+<img src="https://github.com/adolfos94/Bareiss-Algorithm/blob/master/carbon.png?raw=true">
 
 
 
